@@ -1,0 +1,5 @@
+C:\ams\1ano\semestre2\estruturarep\ForEachCommand\obj\Debug\net5.0\ForEachCommand.csproj.AssemblyReference.cache
+C:\ams\1ano\semestre2\estruturarep\ForEachCommand\obj\Debug\net5.0\ForEachCommand.GeneratedMSBuildEditorConfig.editorconfig
+C:\ams\1ano\semestre2\estruturarep\ForEachCommand\obj\Debug\net5.0\ForEachCommand.AssemblyInfoInputs.cache
+C:\ams\1ano\semestre2\estruturarep\ForEachCommand\obj\Debug\net5.0\ForEachCommand.AssemblyInfo.cs
+C:\ams\1ano\semestre2\estruturarep\ForEachCommand\obj\Debug\net5.0\ForEachCommand.csproj.CoreCompileInputs.cache
